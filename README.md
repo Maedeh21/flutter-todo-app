@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter project.
+A new Flutter project. Replace your google-services.json config file.
 
 ## Getting Started
 
